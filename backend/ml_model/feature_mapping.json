@@ -1,0 +1,48 @@
+{
+  "age": "age",
+  "sex": {
+    "Male": 1,
+    "Female": 0
+  },
+  "chest_pain_type": {
+    "Typical angina": 0,
+    "Atypical angina": 1,
+    "Non-anginal pain": 2,
+    "Asymptomatic": 3
+  },
+  "resting_blood_pressure": "resting_blood_pressure",
+  "cholestoral": "cholestoral",
+  "fasting_blood_sugar": {
+    "Lower than 120 mg/ml": 0,
+    "Greater than 120 mg/ml": 1
+  },
+  "rest_ecg": {
+    "Normal": 0,
+    "ST-T wave abnormality": 1,
+    "Left ventricular hypertrophy": 2
+  },
+  "Max_heart_rate": "Max_heart_rate",
+  "exercise_induced_angina": {
+    "No": 0,
+    "Yes": 1
+  },
+  "oldpeak": "oldpeak",
+  "slope": {
+    "Flat": 0,
+    "Upsloping": 1,
+    "Downsloping": 2
+  },
+  "vessels_colored_by_flourosopy": {
+    "Zero": 0,
+    "One": 1,
+    "Two": 2,
+    "Three": 3,
+    "Four": 4
+  },
+  "thalassemia": {
+    "Normal": 0,
+    "Fixed Defect": 1,
+    "Reversable Defect": 2,
+    "No": 3
+  }
+}
