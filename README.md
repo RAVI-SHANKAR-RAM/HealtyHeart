@@ -13,7 +13,7 @@ Built with React, Node.js/Express, MongoDB, and a Machine Learning model (scikit
 
 🗄️ Database (MongoDB) to store patient information and prediction history.
 
-🔒 JWT authentication for secure access (optional).
+🔒 JWT authentication for secure access .
 
 🏗️ Tech Stack
 
@@ -21,4 +21,4 @@ Frontend: React, TailwindCSS / Bootstrap
 Backend: Node.js, Express.js
 Database: MongoDB
 ML Model: Python, scikit-learn, pickle
-Other Tools: Flask API (if separate for ML), Axios
+Other Tools: Flask API, Axios
